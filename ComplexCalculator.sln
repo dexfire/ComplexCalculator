@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexCalculator", "ComplexCalculator\ComplexCalculator.csproj", "{EEBC76CB-3AD9-46E4-9B24-271B88BA45EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexNumberCalculator_Wulvhua", "..\ComplexNumberCacular\ComplexNumberCalculator_Wulvhua\ComplexNumberCalculator_Wulvhua.csproj", "{DEBC1F60-8E65-411B-88D6-E394AC365A76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEBC76CB-3AD9-46E4-9B24-271B88BA45EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBC76CB-3AD9-46E4-9B24-271B88BA45EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBC76CB-3AD9-46E4-9B24-271B88BA45EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBC76CB-3AD9-46E4-9B24-271B88BA45EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEBC1F60-8E65-411B-88D6-E394AC365A76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEBC1F60-8E65-411B-88D6-E394AC365A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEBC1F60-8E65-411B-88D6-E394AC365A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEBC1F60-8E65-411B-88D6-E394AC365A76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {421C778D-749C-4553-9CF8-EB01E951D9CD}
+	EndGlobalSection
+EndGlobal
